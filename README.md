@@ -89,10 +89,14 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 - **Read:** Continuous page view with a thumbnail strip; Zoom, fit to width and quick jumps between pages; Search text across the whole document with every match highlighted
 - **Annotate:** Highlighter, free text, rectangle box and freehand pen; Seven ink colours and an adjustable line thickness; Eraser to remove a single mark
-- **Sign:** Draw your signature with a mouse, pen or touch screen and place it anywhere on a page; Resize the signature to fit the line
+- **Sign:** Draw your signature with a mouse, pen or touch screen and place it anywhere on a page; Resize the signature to fit the line; Sign digitally with a certificate and check who signed a file
+- **Organise:** Crop, change the paper size, insert pages, split into files, drag thumbnails, bookmarks and a contents page
+- **Protect:** Redact words or personal details by pattern, clean hidden information, password
+- **Convert:** Word with tables and pictures, Markdown, web page, CSV tables, PDF/A archive copy, batch jobs
+- **Also:** Compare two PDFs, search many files at once, and a full Thai interface (button at the top right)
 
 <details>
-<summary><b>All 15 screenshots</b></summary>
+<summary><b>All 21 screenshots</b></summary>
 
 **The home screen.** PDFout opens on a start screen with quick tools, your recent files and a starred tab.
 
@@ -130,9 +134,27 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 <img src="assets/shots/pdfout/13-form-fields.png" alt="Drawing form fields" width="100%">
 
-**Password.** Open Protect > Password to lock the saved PDF with a password (256-bit encryption, made on your computer) and choose whether people may print, copy or edit. Locked PDFs ask for their password when opened. Convert > Word (text) saves the text as a Word file.
+**Password.** Open Protect > Password to lock the saved PDF with a password (256-bit encryption, made on your computer) and choose whether people may print, copy or edit. Locked PDFs ask for their password when opened. Convert > Word saves the document as a Word file with its tables and pictures.
 
 <img src="assets/shots/pdfout/14-password-dialog.png" alt="Password dialog" width="100%">
+
+**Crop, bookmarks, compare.** Organise > Crop trims margins; the left panel shows and edits bookmarks; Tools > Compare shows what changed between two PDFs.
+
+<img src="assets/shots/pdfout/15-crop.png" alt="Crop" width="100%">
+
+<img src="assets/shots/pdfout/16-bookmarks.png" alt="Bookmarks" width="100%">
+
+<img src="assets/shots/pdfout/17-compare.png" alt="Compare" width="100%">
+
+**Protect.** Redact personal details by pattern and sign with a digital signature.
+
+<img src="assets/shots/pdfout/18-redact-patterns.png" alt="Redact patterns" width="100%">
+
+<img src="assets/shots/pdfout/19-digital-signature.png" alt="Digital signature" width="100%">
+
+**Thai interface.** One button switches every menu and message between Thai and English.
+
+<img src="assets/shots/pdfout/20-thai-interface.png" alt="Thai interface" width="100%">
 
 **Text recognition (OCR).** Open a scan or photo, choose Convert > OCR (English, Thai or both) and PDFout reads the words offline. Copy them, save them as text, keep them as a hidden searchable layer, or turn them into editable text boxes.
 
