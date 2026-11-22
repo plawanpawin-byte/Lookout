@@ -92,7 +92,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 - **Sign:** Draw your signature with a mouse, pen or touch screen and place it anywhere on a page; Resize the signature to fit the line
 
 <details>
-<summary><b>All 13 screenshots</b></summary>
+<summary><b>All 15 screenshots</b></summary>
 
 **The home screen.** PDFout opens on a start screen with quick tools, your recent files and a starred tab.
 
@@ -125,6 +125,14 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 <img src="assets/shots/pdfout/11-edit-text-dialog.png" alt="Edit window" width="100%">
 
 <img src="assets/shots/pdfout/12-edit-text-result.png" alt="After editing" width="100%">
+
+**Form fields.** Open the Form tab, pick Text field, Checkbox or Dropdown and drag a rectangle on the page. They are saved as real fill-in fields that work in any PDF reader.
+
+<img src="assets/shots/pdfout/13-form-fields.png" alt="Drawing form fields" width="100%">
+
+**Password.** Open Protect > Password to lock the saved PDF with a password (256-bit encryption, made on your computer) and choose whether people may print, copy or edit. Locked PDFs ask for their password when opened. Convert > Word (text) saves the text as a Word file.
+
+<img src="assets/shots/pdfout/14-password-dialog.png" alt="Password dialog" width="100%">
 
 **Text recognition (OCR).** Open a scan or photo, choose Convert > OCR (English, Thai or both) and PDFout reads the words offline. Copy them, save them as text, keep them as a hidden searchable layer, or turn them into editable text boxes.
 
@@ -848,7 +856,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 Every Lookout app follows the same design, so learning one teaches you the rest.
 
-- **Top bar** for files and tools, with a line icon on every button. (PDFout groups its tools into ribbon tabs: Home, Comment, Organise, Protect, Tools and View.) On smaller windows, less important buttons shrink to icons; hover to see their names.
+- **Top bar** for files and tools, with a line icon on every button. (PDFout groups its tools into ribbon tabs: Home, Edit, Comment, Form, Organise, Protect, Convert, Tools and View.) On smaller windows, less important buttons shrink to icons; hover to see their names.
 - **Left panel** for what you work with (pages, shapes, layers, media). **Right panel** for the settings of what is selected.
 - **Status bar** at the bottom with counts, length, zoom or progress.
 - **Shortcuts in common:** Ctrl + Z / Ctrl + Y undo and redo, Ctrl + S saves, Ctrl + O opens, Delete removes the selection, Space plays media or pans a canvas, Ctrl + mouse wheel zooms.
@@ -856,7 +864,7 @@ Every Lookout app follows the same design, so learning one teaches you the rest.
 
 ## What is new
 
-**Pageout is now PDFout**, with a home screen (quick tools, recent and starred files), offline OCR for English and Thai, editing the text of normal PDFs, picture and FDF/XFDF support, Print, Watermark, Page numbers and Export-all-pages-as-images. Every app also now shows its own name and icon in Task Manager and the taskbar instead of "Electron".
+**PDFout 1.0.20 adds passwords** (open and save locked PDFs), a Form tab for fill-in fields and a Word text export. **Pageout is now PDFout**, with a home screen (quick tools, recent and starred files), offline OCR for English and Thai, editing the text of normal PDFs, picture and FDF/XFDF support, Print, Watermark, Page numbers and Export-all-pages-as-images. Every app also now shows its own name and icon in Task Manager and the taskbar instead of "Electron".
 
 Every app now has a new look inspired by Google AI Studio, Colab and Gemini: a calm dark charcoal theme, rounded pill buttons, a soft blue accent and roomier spacing. Each app has a colour logo, shown in the Start menu and in the launcher. Every README was rewritten to explain, in plain words, what the app does, who it is for and how to start. All screenshots were taken again.
 
