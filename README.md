@@ -92,7 +92,11 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 - **Sign:** Draw your signature with a mouse, pen or touch screen and place it anywhere on a page; Resize the signature to fit the line
 
 <details>
-<summary><b>All 5 screenshots</b></summary>
+<summary><b>All 6 screenshots</b></summary>
+
+**The home screen.** PDFout opens on a start screen with quick tools, your recent files and a starred tab.
+
+<img src="assets/shots/pdfout/00-home.png" alt="The home screen" width="100%">
 
 **Reading a PDF.** Pages open in a continuous view with a thumbnail strip on the left and document details on the right. Zoom in and out, fit the page to the window, or search for words across the whole document.
 
@@ -826,7 +830,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 Every Lookout app follows the same design, so learning one teaches you the rest.
 
-- **Top bar** for files and tools, with a line icon on every button. On smaller windows, less important buttons shrink to icons; hover to see their names.
+- **Top bar** for files and tools, with a line icon on every button. (PDFout groups its tools into ribbon tabs: Home, Comment, Organise, Protect, Tools and View.) On smaller windows, less important buttons shrink to icons; hover to see their names.
 - **Left panel** for what you work with (pages, shapes, layers, media). **Right panel** for the settings of what is selected.
 - **Status bar** at the bottom with counts, length, zoom or progress.
 - **Shortcuts in common:** Ctrl + Z / Ctrl + Y undo and redo, Ctrl + S saves, Ctrl + O opens, Delete removes the selection, Space plays media or pans a canvas, Ctrl + mouse wheel zooms.
