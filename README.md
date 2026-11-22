@@ -20,7 +20,7 @@ Lookout is a family of small desktop apps that do the jobs people usually pay a 
 
 Lookout is not one program but a **set of ten small programs** that you install on a Windows computer. Each one does a single job well: one reads PDFs, one draws diagrams, one edits video, and so on. You can install only the ones you need.
 
-- The **document apps** (Pageout, Chartout, Branchout, Planout, Frameout) work with pages, drawings and plans.
+- The **document apps** (PDFout, Chartout, Branchout, Planout, Frameout) work with pages, drawings and plans.
 - The **media apps** (Cutout, Shiftout, Castout, Mendout, Tuneout) work with video, audio and pictures. They carry their own copy of the video tool FFmpeg, so there is nothing extra to set up.
 - The **launcher** (Lookout) is an optional app library that installs and updates all of them from one window.
 
@@ -31,7 +31,7 @@ Everything runs on your own computer. Your files are never uploaded, and the app
 | | App | What it is for | Code |
 | --- | --- | --- | --- |
 | <img src="assets/icons/lookout.png" width="32" alt="Lookout"> | **Lookout** (launcher) | Install, open and update all the apps below | [GitHub](https://github.com/plawanpawin-byte/lookout-launcher) |
-| <img src="assets/icons/pageout.png" width="32" alt="Pageout"> | **Pageout** | Read, annotate and sign PDFs | [GitHub](https://github.com/plawanpawin-byte/pageout) |
+| <img src="assets/icons/pdfout.png" width="32" alt="PDFout"> | **PDFout** | Read, annotate and sign PDFs | [GitHub](https://github.com/plawanpawin-byte/pdfout) |
 | <img src="assets/icons/chartout.png" width="32" alt="Chartout"> | **Chartout** | Flowcharts, org charts and diagrams | [GitHub](https://github.com/plawanpawin-byte/chartout) |
 | <img src="assets/icons/branchout.png" width="32" alt="Branchout"> | **Branchout** | Mind maps and outlines | [GitHub](https://github.com/plawanpawin-byte/branchout) |
 | <img src="assets/icons/planout.png" width="32" alt="Planout"> | **Planout** | Project plans and Gantt timelines | [GitHub](https://github.com/plawanpawin-byte/planout) |
@@ -46,7 +46,7 @@ Everything runs on your own computer. Your files are never uploaded, and the app
 
 | I want to... | Use |
 | --- | --- |
-| Read, mark up, sign or redact a PDF | [Pageout](#pageout) |
+| Read, mark up, sign or redact a PDF | [PDFout](#pdfout) |
 | Draw a flowchart, org chart or process map | [Chartout](#chartout) |
 | Brainstorm or outline ideas | [Branchout](#branchout) |
 | Plan a project with dates and owners | [Planout](#planout) |
@@ -79,13 +79,13 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ## Documents
 
-### Pageout
+### PDFout
 
-<a href="https://github.com/plawanpawin-byte/pageout"><img src="assets/icons/pageout.png" alt="Pageout" width="96"></a>
+<a href="https://github.com/plawanpawin-byte/pdfout"><img src="assets/icons/pdfout.png" alt="PDFout" width="96"></a>
 
-**Read, annotate and sign PDFs.** Pageout is a PDF reader and editor for Windows that works entirely on your computer. Open a document, highlight what matters, write notes, draw, sign, black out private details, rearrange pages and save a new copy.
+**Read, annotate and sign PDFs.** PDFout is a PDF reader and editor for Windows that works entirely on your computer. Open a document, highlight what matters, write notes, draw, sign, black out private details, rearrange pages and save a new copy.
 
-<a href="https://github.com/plawanpawin-byte/pageout"><img src="assets/shots/pageout.png" alt="Pageout screenshot" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/pdfout"><img src="assets/shots/pdfout.png" alt="PDFout screenshot" width="100%"></a>
 
 - **Read:** Continuous page view with a thumbnail strip; Zoom, fit to width and quick jumps between pages; Search text across the whole document with every match highlighted
 - **Annotate:** Highlighter, free text, rectangle box and freehand pen; Seven ink colours and an adjustable line thickness; Eraser to remove a single mark
@@ -96,23 +96,23 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 **Reading a PDF.** Pages open in a continuous view with a thumbnail strip on the left and document details on the right. Zoom in and out, fit the page to the window, or search for words across the whole document.
 
-<img src="assets/shots/pageout/01-reading-a-pdf.png" alt="Reading a PDF" width="100%">
+<img src="assets/shots/pdfout/01-reading-a-pdf.png" alt="Reading a PDF" width="100%">
 
 **Marking up a page.** A highlighter over a key sentence, a black redaction bar over a private line, a pen scribble and a box around the chart. Every mark can be moved, erased or undone.
 
-<img src="assets/shots/pageout/02-annotated-page.png" alt="Marking up a page" width="100%">
+<img src="assets/shots/pdfout/02-annotated-page.png" alt="Marking up a page" width="100%">
 
 **Organising pages.** Select pages in the thumbnail strip, then rotate, copy, move, delete, insert a blank page or extract them into a new file.
 
-<img src="assets/shots/pageout/03-page-organiser.png" alt="Organising pages" width="100%">
+<img src="assets/shots/pdfout/03-page-organiser.png" alt="Organising pages" width="100%">
 
 **Fit to width.** One click scales the page to the window so long documents are comfortable to read.
 
-<img src="assets/shots/pageout/04-fit-to-width.png" alt="Fit to width" width="100%">
+<img src="assets/shots/pdfout/04-fit-to-width.png" alt="Fit to width" width="100%">
 
 **What you get out.** The current page exported as a sharp PNG image, ready to drop into a slide, a message or another document.
 
-<img src="assets/shots/pageout/05-exported-page-image.png" alt="What you get out" width="100%">
+<img src="assets/shots/pdfout/05-exported-page-image.png" alt="What you get out" width="100%">
 
 </details>
 
@@ -162,7 +162,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 </details>
 
-**[Download Pageout](https://github.com/plawanpawin-byte/pageout/releases/latest)** · [Screenshots and full details](https://github.com/plawanpawin-byte/pageout)
+**[Download PDFout](https://github.com/plawanpawin-byte/pdfout/releases/latest)** · [Screenshots and full details](https://github.com/plawanpawin-byte/pdfout)
 
 ### Chartout
 
@@ -833,6 +833,8 @@ Every Lookout app follows the same design, so learning one teaches you the rest.
 - **Undo** for every change, and saving always writes a file you choose.
 
 ## What is new
+
+**Pageout is now PDFout**, with a home screen (quick tools, recent and starred files). Every app also now shows its own name and icon in Task Manager and the taskbar instead of "Electron".
 
 Every app now has a new look inspired by Google AI Studio, Colab and Gemini: a calm dark charcoal theme, rounded pill buttons, a soft blue accent and roomier spacing. Each app has a colour logo, shown in the Start menu and in the launcher. Every README was rewritten to explain, in plain words, what the app does, who it is for and how to start. All screenshots were taken again.
 
