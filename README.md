@@ -1,18 +1,46 @@
-<p align="center"><img src="assets/banners/lookout.png" alt="Lookout" width="100%"></p>
+<p align="center"><img src="assets/icons/lookout.png" alt="Lookout" width="128"></p>
+
+<h1 align="center">Lookout</h1>
 
 <p align="center"><b>Private, offline apps for Windows</b><br>Ten apps for documents and media · One launcher · No accounts · No subscriptions · No tracking</p>
 
 ---
 
-Lookout is a family of small desktop apps that do the jobs people usually pay a subscription for: reading and signing PDFs, drawing diagrams, planning projects, editing video and audio. They share one calm grey look, they all work without an internet connection, and your files never leave your computer.
+Lookout is a family of small desktop apps that do the jobs people usually pay a subscription for: reading and signing PDFs, drawing diagrams, planning projects, editing video and audio. They share one clean dark look inspired by Google's own tools, they all work without an internet connection, and your files never leave your computer.
 
 ## Why Lookout
 
 - **Free and open.** MIT licensed. No trial, no watermark, no upsell.
 - **Yours.** No account to create. Nothing is uploaded. Nothing is tracked.
 - **Offline.** Every app works with the network switched off. The launcher is the only piece that goes online, only to find and download releases.
-- **Calm.** One grey interface, no flashy colour, the same shortcuts and layout from app to app.
+- **Familiar.** One dark charcoal interface with soft rounded buttons and a blue accent, the same shortcuts and layout from app to app. Each app has its own colour logo so you can tell them apart at a glance.
 - **Safe.** Apps run in locked-down windows and can reach only the files you choose in the Windows file dialogs.
+
+## In plain words
+
+Lookout is not one program but a **set of ten small programs** that you install on a Windows computer. Each one does a single job well: one reads PDFs, one draws diagrams, one edits video, and so on. You can install only the ones you need.
+
+- The **document apps** (Pageout, Chartout, Branchout, Planout, Frameout) work with pages, drawings and plans.
+- The **media apps** (Cutout, Shiftout, Castout, Mendout, Tuneout) work with video, audio and pictures. They carry their own copy of the video tool FFmpeg, so there is nothing extra to set up.
+- The **launcher** (Lookout) is an optional app library that installs and updates all of them from one window.
+
+Everything runs on your own computer. Your files are never uploaded, and the apps work with the internet switched off.
+
+## The apps at a glance
+
+| | App | What it is for | Code |
+| --- | --- | --- | --- |
+| <img src="assets/icons/lookout.png" width="32" alt="Lookout"> | **Lookout** (launcher) | Install, open and update all the apps below | [GitHub](https://github.com/plawanpawin-byte/lookout-launcher) |
+| <img src="assets/icons/pageout.png" width="32" alt="Pageout"> | **Pageout** | Read, annotate and sign PDFs | [GitHub](https://github.com/plawanpawin-byte/pageout) |
+| <img src="assets/icons/chartout.png" width="32" alt="Chartout"> | **Chartout** | Flowcharts, org charts and diagrams | [GitHub](https://github.com/plawanpawin-byte/chartout) |
+| <img src="assets/icons/branchout.png" width="32" alt="Branchout"> | **Branchout** | Mind maps and outlines | [GitHub](https://github.com/plawanpawin-byte/branchout) |
+| <img src="assets/icons/planout.png" width="32" alt="Planout"> | **Planout** | Project plans and Gantt timelines | [GitHub](https://github.com/plawanpawin-byte/planout) |
+| <img src="assets/icons/frameout.png" width="32" alt="Frameout"> | **Frameout** | App and web screen design with click-through prototypes | [GitHub](https://github.com/plawanpawin-byte/frameout) |
+| <img src="assets/icons/cutout.png" width="32" alt="Cutout"> | **Cutout** | Video editing on a timeline | [GitHub](https://github.com/plawanpawin-byte/cutout) |
+| <img src="assets/icons/shiftout.png" width="32" alt="Shiftout"> | **Shiftout** | Convert and compress video and audio, make GIFs | [GitHub](https://github.com/plawanpawin-byte/shiftout) |
+| <img src="assets/icons/castout.png" width="32" alt="Castout"> | **Castout** | Record your screen | [GitHub](https://github.com/plawanpawin-byte/castout) |
+| <img src="assets/icons/mendout.png" width="32" alt="Mendout"> | **Mendout** | Check and repair damaged video, audio, pictures and PDFs | [GitHub](https://github.com/plawanpawin-byte/mendout) |
+| <img src="assets/icons/tuneout.png" width="32" alt="Tuneout"> | **Tuneout** | Record and edit audio | [GitHub](https://github.com/plawanpawin-byte/tuneout) |
 
 ## Which app do I need?
 
@@ -53,7 +81,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Pageout
 
-<a href="https://github.com/plawanpawin-byte/pageout"><img src="assets/banners/pageout.png" alt="Pageout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/pageout"><img src="assets/icons/pageout.png" alt="Pageout" width="96"></a>
 
 **Read, annotate and sign PDFs.** Pageout is a PDF reader and editor for Windows that works entirely on your computer. Open a document, highlight what matters, write notes, draw, sign, black out private details, rearrange pages and save a new copy.
 
@@ -138,7 +166,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Chartout
 
-<a href="https://github.com/plawanpawin-byte/chartout"><img src="assets/banners/chartout.png" alt="Chartout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/chartout"><img src="assets/icons/chartout.png" alt="Chartout" width="96"></a>
 
 **Flowcharts and diagrams.** Chartout is a diagram maker for flowcharts, org charts, process maps and quick sketches of how things connect. Drag shapes onto an unlimited canvas, join them with connectors that follow the shapes around, then export a clean PNG or SVG.
 
@@ -214,7 +242,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Branchout
 
-<a href="https://github.com/plawanpawin-byte/branchout"><img src="assets/banners/branchout.png" alt="Branchout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/branchout"><img src="assets/icons/branchout.png" alt="Branchout" width="96"></a>
 
 **Mind maps and outlines.** Branchout is a mind-mapping app. Start with one idea in the centre, branch out with topics and sub-topics, add notes and colour, collapse the parts you are not working on, and turn the whole map into an image or a text outline.
 
@@ -284,7 +312,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Planout
 
-<a href="https://github.com/plawanpawin-byte/planout"><img src="assets/banners/planout.png" alt="Planout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/planout"><img src="assets/icons/planout.png" alt="Planout" width="96"></a>
 
 **Plans and Gantt timelines.** Planout turns a list of tasks into a project plan. Give each task a start date, a length and an owner, link tasks that depend on each other, and watch the Gantt timeline update.
 
@@ -359,7 +387,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Frameout
 
-<a href="https://github.com/plawanpawin-byte/frameout"><img src="assets/banners/frameout.png" alt="Frameout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/frameout"><img src="assets/icons/frameout.png" alt="Frameout" width="96"></a>
 
 **Screen design and prototypes.** Frameout is a canvas for designing app screens and web pages. Draw a frame for each screen, fill it with rectangles, circles, lines and text, rearrange layers, then export a screen as an image or an SVG.
 
@@ -434,7 +462,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Cutout
 
-<a href="https://github.com/plawanpawin-byte/cutout"><img src="assets/banners/cutout.png" alt="Cutout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/cutout"><img src="assets/icons/cutout.png" alt="Cutout" width="96"></a>
 
 **Video editing on a timeline.** Cutout is a video editor with a multi-track timeline. Import clips, place them in order, split and trim them, add titles and fades, set the volume and speed of each clip, preview the result and export a finished video.
 
@@ -509,7 +537,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Shiftout
 
-<a href="https://github.com/plawanpawin-byte/shiftout"><img src="assets/banners/shiftout.png" alt="Shiftout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/shiftout"><img src="assets/icons/shiftout.png" alt="Shiftout" width="96"></a>
 
 **Convert and compress media.** Shiftout converts video and audio between formats, shrinks large files and makes GIFs. Add as many files as you like, choose a target, and convert them all in one go.
 
@@ -581,7 +609,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Castout
 
-<a href="https://github.com/plawanpawin-byte/castout"><img src="assets/banners/castout.png" alt="Castout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/castout"><img src="assets/icons/castout.png" alt="Castout" width="96"></a>
 
 **Record your screen.** Castout records your screen or a single window, with computer sound and an optional microphone. Choose what to capture, press start after a short countdown, then review the clip and save it as WebM, MP4, GIF or MP3.
 
@@ -651,7 +679,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Mendout
 
-<a href="https://github.com/plawanpawin-byte/mendout"><img src="assets/banners/mendout.png" alt="Mendout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/mendout"><img src="assets/icons/mendout.png" alt="Mendout" width="96"></a>
 
 **Repair damaged media.** Mendout checks a video or audio file for problems and repairs it into a new file. It explains what it found in plain language and offers fixes that match the damage.
 
@@ -720,7 +748,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 ### Tuneout
 
-<a href="https://github.com/plawanpawin-byte/tuneout"><img src="assets/banners/tuneout.png" alt="Tuneout" width="100%"></a>
+<a href="https://github.com/plawanpawin-byte/tuneout"><img src="assets/icons/tuneout.png" alt="Tuneout" width="96"></a>
 
 **Record and edit audio.** Tuneout is an audio editor. See your sound as a waveform, select a part with the mouse, then cut, copy, paste, fade, normalise, filter, change speed or record new audio.
 
@@ -806,7 +834,7 @@ Every Lookout app follows the same design, so learning one teaches you the rest.
 
 ## What is new
 
-A refreshed interface: every toolbar button now has a clear line icon, the app's mark sits at the top left, controls share one height and spacing, panels line up in tidy grids, and the toolbar keeps every button reachable on smaller windows by switching less important buttons to icons.
+Every app now has a new look inspired by Google AI Studio, Colab and Gemini: a calm dark charcoal theme, rounded pill buttons, a soft blue accent and roomier spacing. Each app has a colour logo, shown in the Start menu and in the launcher. Every README was rewritten to explain, in plain words, what the app does, who it is for and how to start. All screenshots were taken again.
 
 ## Installing
 
