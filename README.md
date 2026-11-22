@@ -92,7 +92,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 - **Sign:** Draw your signature with a mouse, pen or touch screen and place it anywhere on a page; Resize the signature to fit the line
 
 <details>
-<summary><b>All 10 screenshots</b></summary>
+<summary><b>All 13 screenshots</b></summary>
 
 **The home screen.** PDFout opens on a start screen with quick tools, your recent files and a starred tab.
 
@@ -117,6 +117,14 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 **What you get out.** The current page exported as a sharp PNG image, ready to drop into a slide, a message or another document.
 
 <img src="assets/shots/pdfout/05-exported-page-image.png" alt="What you get out" width="100%">
+
+**Edit text.** Choose Edit > Edit text, click any line of a normal PDF and change or delete it. The new words keep the original size, colour and bold; the old words are hidden under a patch, or removed for good if you tick the option.
+
+<img src="assets/shots/pdfout/10-edit-text-pick-a-line.png" alt="Pick a line" width="100%">
+
+<img src="assets/shots/pdfout/11-edit-text-dialog.png" alt="Edit window" width="100%">
+
+<img src="assets/shots/pdfout/12-edit-text-result.png" alt="After editing" width="100%">
 
 **Text recognition (OCR).** Open a scan or photo, choose Convert > OCR (English, Thai or both) and PDFout reads the words offline. Copy them, save them as text, keep them as a hidden searchable layer, or turn them into editable text boxes.
 
@@ -848,7 +856,7 @@ Every Lookout app follows the same design, so learning one teaches you the rest.
 
 ## What is new
 
-**Pageout is now PDFout**, with a home screen (quick tools, recent and starred files), offline OCR for English and Thai, picture and FDF/XFDF support, Print, Watermark, Page numbers and Export-all-pages-as-images. Every app also now shows its own name and icon in Task Manager and the taskbar instead of "Electron".
+**Pageout is now PDFout**, with a home screen (quick tools, recent and starred files), offline OCR for English and Thai, editing the text of normal PDFs, picture and FDF/XFDF support, Print, Watermark, Page numbers and Export-all-pages-as-images. Every app also now shows its own name and icon in Task Manager and the taskbar instead of "Electron".
 
 Every app now has a new look inspired by Google AI Studio, Colab and Gemini: a calm dark charcoal theme, rounded pill buttons, a soft blue accent and roomier spacing. Each app has a colour logo, shown in the Start menu and in the launcher. Every README was rewritten to explain, in plain words, what the app does, who it is for and how to start. All screenshots were taken again.
 
