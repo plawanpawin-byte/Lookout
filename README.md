@@ -83,7 +83,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 <a href="https://github.com/plawanpawin-byte/pdfout"><img src="assets/icons/pdfout.png" alt="PDFout" width="96"></a>
 
-**Read, annotate and sign PDFs.** PDFout is a PDF reader and editor for Windows that works entirely on your computer. Open a document, highlight what matters, write notes, draw, sign, black out private details, rearrange pages and save a new copy.
+**Read, annotate and sign PDFs.** PDFout is a PDF reader and editor for Windows that works entirely on your computer. Open a document, highlight what matters, write notes, draw, sign, black out private details, rearrange pages and save a new copy. *PDFout is currently a public beta (1.0.23): everything described here works, but it has not had a long test period.*
 
 <a href="https://github.com/plawanpawin-byte/pdfout"><img src="assets/shots/pdfout.png" alt="PDFout screenshot" width="100%"></a>
 
@@ -214,7 +214,7 @@ Install, open, update and remove all ten apps from one window. **[Download the l
 
 </details>
 
-**[Download PDFout](https://github.com/plawanpawin-byte/pdfout/releases/latest)** · [Screenshots and full details](https://github.com/plawanpawin-byte/pdfout)
+**[Download PDFout 1.0.23 (beta)](https://github.com/plawanpawin-byte/pdfout/releases/tag/v1.0.23)** · [Screenshots and full details](https://github.com/plawanpawin-byte/pdfout)
 
 ### Chartout
 
